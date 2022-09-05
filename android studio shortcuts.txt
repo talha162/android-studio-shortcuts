@@ -1,0 +1,30 @@
+Ctrl+D=> Duplicate line or selection
+Ctrl+Q=> Quick Documentation
+Ctrl+B=>Goto Declaration
+Ctrl+Y=>Delete Line
+Ctrl+Alt+L=> Reformat Code
+Ctrl+E=>Recently Opened files
+Ctrl+O=>override methods
+Ctrl(+,-)Collapse/Expand Current Code Block
+Ctrl + Space=>Basic Code Completion
+Shift+Alt+mouse left click=> multi line selection
+Ctrl+Shift+B =>Find Implementations
+Ctrl + W => Extend selection (selects a word->line->method->Class )
+F3=> Find Next
+Shift+F3 =>Find Previous
+Shift+Shift — Search Everywhere
+Ctrl+F => Find Text within a Single File
+Ctrl+Shift+F=>Find Text in All Files
+Ctrl+R =>Replace Selected Text in a Single File
+Ctrl+Shift+R > Replace Selected Text in all Files 
+Ctrl+Shift+Space — Smart code completion
+Ctrl + / => Comment / uncomment with line comment
+Ctrl + Shift + / => Comment / uncomment with block comment
+Ctrl+F6 => Refactor Code
+Alt-Insert=>  Generate Code
+Alt + J =>Select next occurrence
+Ctrl + Alt + Shift + J => Select all occurrences
+Alt + Shift + J => Unselect occurrence
+Alt+ ↑ => Jump to the Previous Method
+Alt+↓ => Jump to Next Method
+Ctrl+G => Jump to Line
